@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d6ce7aeb_002D9301_002D4e7e_002Db4a4_002Db32893c021c0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TokensShouldSingleSpaceToken" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FC2EEDFA-7298-48C6-890A-5FA2BBC84808::net7.0::BadakLang.Tests.Scanner.ScannerTestWhitespace.TokensShouldSingleSpaceToken&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eae08272_002Df69a_002D4662_002D89c3_002D62af05005e0a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TokensShouldSingleSpaceToken #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FC2EEDFA-7298-48C6-890A-5FA2BBC84808::net7.0::BadakLang.Tests.Scanner.ScannerTestWhitespace&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FC2EEDFA-7298-48C6-890A-5FA2BBC84808::net7.0::BadakLang.Tests.Scanner.ScannerTestInvalid.Invalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FC2EEDFA-7298-48C6-890A-5FA2BBC84808::net7.0::BadakLang.Tests.Scanner.ScannerTestEof.Eof&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

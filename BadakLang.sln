@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadakLang.Scanner", "BadakLang.Scanner\BadakLang.Scanner.csproj", "{A58F59E8-F812-4CEE-824D-4929B356561D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadakLang.Tests", "BadakLang.Tests\BadakLang.Tests.csproj", "{FC2EEDFA-7298-48C6-890A-5FA2BBC84808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A58F59E8-F812-4CEE-824D-4929B356561D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58F59E8-F812-4CEE-824D-4929B356561D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58F59E8-F812-4CEE-824D-4929B356561D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58F59E8-F812-4CEE-824D-4929B356561D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2EEDFA-7298-48C6-890A-5FA2BBC84808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2EEDFA-7298-48C6-890A-5FA2BBC84808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2EEDFA-7298-48C6-890A-5FA2BBC84808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2EEDFA-7298-48C6-890A-5FA2BBC84808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
